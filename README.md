@@ -4,7 +4,7 @@ Goal:
 
 Apply the CRISP-DM process and data mining algorithms and techniques covered in class to a real world. You will conduct your study following the CRISP-DM process and jupyter notebook. Make use of resources provided in class and install different libraries for visualization. Students must perform all steps of the CRISP-DM process and report on results. Specifically, students will apply regression, classification, clustering and association rule analysis as they develop a prediction model for Rossman Sales Data. Students will turn in all work via Jupyter notebook for the project.
 
-The Project
+The Project:
 
 Analysis of Rossman Store Data. Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
